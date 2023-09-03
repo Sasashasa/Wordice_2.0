@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_38
+  m_EditorClassIdentifier: 
+  Id: 7
+  Word: SLEEVE
+  Turns: 12
+  Character: 4
+  Dialog:
+    _characterText: Sorcerer, I need help. I work at the central bank, and here's
+      the trouble - I forgot the code to the main safe. So help me, I won't leave
+      you in a grudge.
+    _predictorText: I'd rather be offended than help you. I know what your sleeve
+      hides. Get out of here before I call the police.
+  Pictures:
+  - {fileID: 2100000, guid: 1b7e57ec9e669994196e8be9fb5be09b, type: 2}
+  - {fileID: 2100000, guid: d8526244330e91c4c814be8a6b0ad072, type: 2}
+  - {fileID: 2100000, guid: ac8c194f924349640a134a0c208a80a7, type: 2}

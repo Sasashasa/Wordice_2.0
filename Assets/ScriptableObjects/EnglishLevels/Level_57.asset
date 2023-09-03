@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_57
+  m_EditorClassIdentifier: 
+  Id: 26
+  Word: ESCAPE
+  Turns: 12
+  Character: 7
+  Dialog:
+    _characterText: Hello, I have been appointed head of the local prison. And the
+      first year will decide my future. Tell me, should I be afraid of something?
+    _predictorText: You should be afraid of self-doubt, that's the main thing. But
+      I also see an escape in the future. Replace the laundress if you want to avoid
+      it.
+  Pictures:
+  - {fileID: 2100000, guid: 14a82668b629c64429df4d911e964a1d, type: 2}
+  - {fileID: 2100000, guid: e18401b239ab8464681f035855df9eb6, type: 2}
+  - {fileID: 2100000, guid: 3500480ddb4464c4185c7644ebfa417b, type: 2}

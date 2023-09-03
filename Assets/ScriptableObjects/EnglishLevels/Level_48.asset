@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_48
+  m_EditorClassIdentifier: 
+  Id: 17
+  Word: LINE
+  Turns: 8
+  Character: 10
+  Dialog:
+    _characterText: The guy and I have been fighting a lot lately. And I think he
+      was fascinated by our mutual friend. Tell me, how can I fix it?
+    _predictorText: You see correctly, you are not the fault of these quarrels. There
+      is a line on your door, almost invisible. Replace the door and locks, then
+      there will be no more quarrels, because the reason will go away.
+  Pictures:
+  - {fileID: 2100000, guid: 03736ce552b4bac4bb48cd03604fdcf8, type: 2}
+  - {fileID: 2100000, guid: afb0f2b7b6873834787879a9dd1df9dc, type: 2}
+  - {fileID: 2100000, guid: bd36cb7872343874083a562da005eb3d, type: 2}

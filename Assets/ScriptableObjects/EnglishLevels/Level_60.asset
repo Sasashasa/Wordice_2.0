@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_60
+  m_EditorClassIdentifier: 
+  Id: 29
+  Word: TASK
+  Turns: 8
+  Character: 18
+  Dialog:
+    _characterText: We are about to release the game. Tell me, predictor, what awaits
+      us after the release?
+    _predictorText: The stars tell me a task awaits you. And it will be like this,
+      which no one has ever encountered. I see you need to sell shares.
+  Pictures:
+  - {fileID: 2100000, guid: 87bf7cf214e7c2049b82a43d722947f9, type: 2}
+  - {fileID: 2100000, guid: 3ef9f513ef2fa9f439bbe2905d1af3f6, type: 2}
+  - {fileID: 2100000, guid: 5e7eac9e40296124b9a386f47fc87503, type: 2}

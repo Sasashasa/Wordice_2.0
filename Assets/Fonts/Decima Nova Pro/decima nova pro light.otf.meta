@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d2e11a44d98db9d4dbfc4802a7d7ba7e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Decima Nova Pro
+  fontNames:
+  - Decima Nova Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61f55c09c20554f4e97f58e9af327d38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

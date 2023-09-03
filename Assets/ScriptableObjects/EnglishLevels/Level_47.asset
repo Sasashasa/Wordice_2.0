@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_47
+  m_EditorClassIdentifier: 
+  Id: 16
+  Word: LEG
+  Turns: 6
+  Character: 7
+  Dialog:
+    _characterText: I'm conducting an investigation, so please - no one should know
+      about our meeting. We have been trying to nail the gang leader for a long time,
+      but he is careful and leaves no traces. You are my last hope.
+    _predictorText: Look in his house. He loves traveling, and the leg, one of the
+      three that hold the globe of the earth, will help you.
+  Pictures:
+  - {fileID: 2100000, guid: 21b419f949dbb12438fde9c0af2a7717, type: 2}
+  - {fileID: 2100000, guid: 30e53659a2e8e1d4baf749ab0a159614, type: 2}
+  - {fileID: 2100000, guid: f7bdad68b459fec49a449785ff81ba5b, type: 2}

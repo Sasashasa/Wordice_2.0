@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_52
+  m_EditorClassIdentifier: 
+  Id: 21
+  Word: JUICE
+  Turns: 10
+  Character: 7
+  Dialog:
+    _characterText: I was invited to a corporate party. And this is my chance to
+      prove myself in front of my superiors. Help me, tell me how best to do this?
+    _predictorText: Put on your favorite costume, and leave the mask you wear every
+      day at home. And don't drink juice this evening, there will be trouble.
+  Pictures:
+  - {fileID: 2100000, guid: 7a8bd03dc9c119f4dbb8f83da2991098, type: 2}
+  - {fileID: 2100000, guid: 0f57b33aacf7d6042a4f66a950f6607f, type: 2}
+  - {fileID: 2100000, guid: b4fc9ff05b489b94e8c98f614804c72b, type: 2}

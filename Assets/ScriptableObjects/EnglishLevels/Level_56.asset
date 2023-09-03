@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_56
+  m_EditorClassIdentifier: 
+  Id: 25
+  Word: MOTHER
+  Turns: 12
+  Character: 21
+  Dialog:
+    _characterText: I had a dream recently. Strange, but... good. And what it means,
+      I don't understand in any way. Tell me what awaits me in the future.
+    _predictorText: The dream is really good, you should be happy. You've been lost
+      for a long time, and now your mother is looking for you. When you get home,
+      don't lock the doors.
+  Pictures:
+  - {fileID: 2100000, guid: df9aa6b800dcd2f4b87063f5ece7b683, type: 2}
+  - {fileID: 2100000, guid: a048727994f49514182777b6d6ed33ce, type: 2}
+  - {fileID: 2100000, guid: 998690816a194f341820da77b38500dc, type: 2}

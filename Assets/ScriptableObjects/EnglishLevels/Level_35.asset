@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_35
+  m_EditorClassIdentifier: 
+  Id: 4
+  Word: SALT
+  Turns: 8
+  Character: 13
+  Dialog:
+    _characterText: My brother and I have something important to do. There is a person
+      who is in danger. How do we protect him?
+    _predictorText: See. I see what your problem is and how dangerous it is! Don't
+      waste your time, run to this very person soon, and take salt along the way!
+      Yes, take more, do not regret it!
+  Pictures:
+  - {fileID: 2100000, guid: fa00ed1935aec46488b122d7f336bb8f, type: 2}
+  - {fileID: 2100000, guid: 305f6e20eee25ae4a973a11f91656a4d, type: 2}
+  - {fileID: 2100000, guid: aa6d13014ef0248449623e13ecf84cf0, type: 2}

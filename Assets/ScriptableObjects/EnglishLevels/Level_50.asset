@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_50
+  m_EditorClassIdentifier: 
+  Id: 19
+  Word: TEST
+  Turns: 8
+  Character: 15
+  Dialog:
+    _characterText: My broker has invested heavily in the securities of a young firm.
+      Tell me, what do you see in my future?
+    _predictorText: I see he will invest even more. But what I don't see is whether
+      he did the analysis. Let's see if you'll see.
+  Pictures:
+  - {fileID: 2100000, guid: 0f6a0626adf623242ba59326a1bfa678, type: 2}
+  - {fileID: 2100000, guid: 30cefeab916578c42a360e216481e563, type: 2}
+  - {fileID: 2100000, guid: 0dbd33bbb85e1c54ea29fabe4b2ea57a, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_37
+  m_EditorClassIdentifier: 
+  Id: 6
+  Word: SHINE
+  Turns: 10
+  Character: 12
+  Dialog:
+    _characterText: I met a girl, but I don't know how to win her. Tell me what to
+      do? To be sure. I don't want to waste time. She so sweetly forgets her things
+      everywhere...
+    _predictorText: Don't worry, the brilliance of your life has already attracted
+      her. Just don't make a fire, it won't help.
+  Pictures:
+  - {fileID: 2100000, guid: f1d4763cce68faf46904e158e2363487, type: 2}
+  - {fileID: 2100000, guid: 026c38a74748e36468ec406ab99e6923, type: 2}
+  - {fileID: 2100000, guid: cb0821639e3d1e44baa1d36571634024, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_39
+  m_EditorClassIdentifier: 
+  Id: 8
+  Word: LIGHT
+  Turns: 10
+  Character: 10
+  Dialog:
+    _characterText: "I love a guy. And everything is fine with us, only\u2026 I think
+      he's hiding something from me. And this does not allow us to be together."
+    _predictorText: He hides his secret for a reason. He protects you with this.
+      But if you still want to know, I see that the zipper on his chest is burning.
+  Pictures:
+  - {fileID: 2100000, guid: 20b4fbb3162e0be4c8ff39944073d5b2, type: 2}
+  - {fileID: 2100000, guid: 6b5b1e7a87b69764e9bb446cd0715297, type: 2}
+  - {fileID: 2100000, guid: 5ad58480ff9a0774a8d86cafa02bcc12, type: 2}

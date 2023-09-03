@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_53
+  m_EditorClassIdentifier: 
+  Id: 22
+  Word: FAT
+  Turns: 6
+  Character: 5
+  Dialog:
+    _characterText: Hello. I'm afraid for my life. Yes! I think they want to poison
+      me! I don't know yet who and why, but I haven't been feeling very well lately.
+      Believe me! My life is definitely in danger!
+    _predictorText: I believe and see that your life is really in danger. But nobody
+      wants to poison you. Fat will ruin you, and your wife and salads will save
+      her.
+  Pictures:
+  - {fileID: 2100000, guid: b0990d430ebe8b94a9de259b4ec7f319, type: 2}
+  - {fileID: 2100000, guid: 2eff0e0c7b18cea4db3a18d9d4f56f17, type: 2}
+  - {fileID: 2100000, guid: b1407b4ef84d5844eb9f9750057c6abf, type: 2}

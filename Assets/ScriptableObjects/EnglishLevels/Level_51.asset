@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_51
+  m_EditorClassIdentifier: 
+  Id: 20
+  Word: BALL
+  Turns: 8
+  Character: 1
+  Dialog:
+    _characterText: "My parents\u2026 They've been... gone for a long time. And I
+      miss them very much. And I want to keep them in my heart. And how\u2026 How
+      do I do this if I've already started to forget what they looked like?.."
+    _predictorText: I see a balloon in your nursery. Take it home with you, and look
+      into it more often. In it is a day in which everything that will not let you
+      forget.
+  Pictures:
+  - {fileID: 2100000, guid: 64a5736dbf88a65498eab1870386fbf6, type: 2}
+  - {fileID: 2100000, guid: c7464e1306bb41c419bff9d34196be14, type: 2}
+  - {fileID: 2100000, guid: 35fa06c0ede013f4fa0554e98be4fefb, type: 2}

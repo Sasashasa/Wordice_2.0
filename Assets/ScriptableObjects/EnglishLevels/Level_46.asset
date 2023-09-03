@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_46
+  m_EditorClassIdentifier: 
+  Id: 15
+  Word: BOSS
+  Turns: 8
+  Character: 4
+  Dialog:
+    _characterText: "I have come to you for advice. The fact is that I recently got
+      a good job. That's just\u2026 Someone is stealing my favorite sandwiches. And
+      I don't know\u2026 I don't know if I should blame the one I suspect."
+    _predictorText: Your work is really good. And it's up to you to hold on to her
+      or to your dream. But know that your boss steals your food, not the one you
+      suspect.
+  Pictures:
+  - {fileID: 2100000, guid: 4c65dadf5d4753a45ad88044d75c9312, type: 2}
+  - {fileID: 2100000, guid: 6d5c527c06b11f844a8cc889bdf7975f, type: 2}
+  - {fileID: 2100000, guid: 281443963ea8e1e4fb58055c4e930dac, type: 2}

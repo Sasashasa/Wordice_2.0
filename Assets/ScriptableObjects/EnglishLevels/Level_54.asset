@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_54
+  m_EditorClassIdentifier: 
+  Id: 23
+  Word: HIT
+  Turns: 6
+  Character: 5
+  Dialog:
+    _characterText: Soon there will be a meeting of two famous fighters, and I decided
+      to bet on one of them. What do you advise me?
+    _predictorText: Bet on an unexpected blow in the third round and don't worry
+      about anything.
+  Pictures:
+  - {fileID: 2100000, guid: 4bd2858ac097b3945917ab091e7c1746, type: 2}
+  - {fileID: 2100000, guid: ff076b820d4ce7d4e82369c425a29912, type: 2}
+  - {fileID: 2100000, guid: abe71401bfe2110489e6142e6cf75895, type: 2}

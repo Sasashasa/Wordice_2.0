@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_32
+  m_EditorClassIdentifier: 
+  Id: 1
+  Word: BOW
+  Turns: 6
+  Character: 10
+  Dialog:
+    _characterText: Help me, I do not know what to do! Friends and family have trouble
+      - I'm indifferent. I watch the news - nothing. The guy dumped me because of
+      this, and... it's like I don't care!
+    _predictorText: Don't be sad. Your parents are going to celebrate, go to them.
+      Yes, take the bow right away. Everything will pass by itself.
+  Pictures:
+  - {fileID: 2100000, guid: cb6d196a5c14bb0419622744dd272207, type: 2}
+  - {fileID: 2100000, guid: 5740bd6a48076eb4e87cd52d799aa403, type: 2}
+  - {fileID: 2100000, guid: 827e9610722b3004bae8aa6c00582765, type: 2}

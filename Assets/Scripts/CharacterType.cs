@@ -1,0 +1,25 @@
+﻿public enum CharacterType 
+{
+    Balance,
+    Ball,
+    Bar,
+    Basin,
+    Caviar,
+    Fat,
+    Iron,
+    Juice,
+    Lawyer,
+    Leaf,
+    Look,
+    Moustache,
+    Saet,
+    Salt,
+    Sleep,
+    Smoke,
+    Stake,
+    Tail,
+    Task,
+    Tooth,
+    Tune,
+    World
+}

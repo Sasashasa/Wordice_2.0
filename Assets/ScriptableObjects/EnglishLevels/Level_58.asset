@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_58
+  m_EditorClassIdentifier: 
+  Id: 27
+  Word: BAG
+  Turns: 6
+  Character: 14
+  Dialog:
+    _characterText: "My wife... she\u2026 She's good, really. Sometimes demanding,
+      but... I love her! But yesterday\u2026 She was clearly hinting that something
+      had changed in her. And I do not know what! She didn't like my silence at all.
+      Help! I need to know exactly what the change is, otherwise..."
+    _predictorText: I'll help you with your trouble. When she comes home today, she
+      will have a bag in her hands. I will help you in what you did not ask for.
+      Think about the fact that not only your wife should change.
+  Pictures:
+  - {fileID: 2100000, guid: d8b764d968bf9c84095921183144c3fc, type: 2}
+  - {fileID: 2100000, guid: c873a70f588e77a4c851c754d48e7648, type: 2}
+  - {fileID: 2100000, guid: b320d9d73b3cee348a637bf7f0b0dc66, type: 2}

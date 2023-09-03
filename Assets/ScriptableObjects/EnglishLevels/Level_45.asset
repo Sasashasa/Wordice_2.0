@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_45
+  m_EditorClassIdentifier: 
+  Id: 14
+  Word: HIPPO
+  Turns: 10
+  Character: 0
+  Dialog:
+    _characterText: "Listen, since you work in our circus\u2026 In general, this
+      is the case. Someone got into the habit of stealing my... drinks. Good drinks.
+      And between you and me, I suspect our clowns. So what do you say?"
+    _predictorText: Clowns do steal, but not drinks. But let your elephant better
+      not come out at the next performance.
+  Pictures:
+  - {fileID: 2100000, guid: cf68eb715b6c98a4883a213586bb86a8, type: 2}
+  - {fileID: 2100000, guid: 5a9274295cf05e341826f3b7e7e1b380, type: 2}
+  - {fileID: 2100000, guid: ebc84a030650b3f418052dd41f33be29, type: 2}

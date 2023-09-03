@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_22
+  m_EditorClassIdentifier: 
+  Id: 21
+  Word: "\u0421\u041E\u041A"
+  Turns: 6
+  Character: 7
+  Dialog:
+    _characterText: "\u041C\u0435\u043D\u044F \u043F\u0440\u0438\u0433\u043B\u0430\u0441\u0438\u043B\u0438
+      \u043D\u0430 \u043A\u043E\u0440\u043F\u043E\u0440\u0430\u0442\u0438\u0432.
+      \u0418 \u044D\u0442\u043E - \u043C\u043E\u0439 \u0448\u0430\u043D\u0441 \u043F\u0440\u043E\u044F\u0432\u0438\u0442\u044C
+      \u0441\u0435\u0431\u044F \u043F\u0435\u0440\u0435\u0434 \u043D\u0430\u0447\u0430\u043B\u044C\u0441\u0442\u0432\u043E\u043C.
+      \u041F\u043E\u043C\u043E\u0433\u0438\u0442\u0435, \u043F\u043E\u0434\u0441\u043A\u0430\u0436\u0438\u0442\u0435,
+      \u043A\u0430\u043A \u043C\u043D\u0435 \u043B\u0443\u0447\u0448\u0435 \u0432\u0441\u0435\u0433\u043E
+      \u044D\u0442\u043E \u0441\u0434\u0435\u043B\u0430\u0442\u044C?"
+    _predictorText: "\u041D\u0430\u0434\u0435\u043D\u044C \u0441\u0432\u043E\u0439
+      \u043B\u044E\u0431\u0438\u043C\u044B\u0439 \u043A\u043E\u0441\u0442\u044E\u043C,
+      \u0430 \u043C\u0430\u0441\u043A\u0443, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u0439
+      \u043A\u0430\u0436\u0434\u044B\u0439 \u0434\u0435\u043D\u044C \u0445\u043E\u0434\u0438\u0448\u044C,
+      \u043E\u0441\u0442\u0430\u0432\u044C \u0434\u043E\u043C\u0430. \u0418 \u0441\u043E\u043A
+      \u0432 \u044D\u0442\u043E\u0442 \u0432\u0435\u0447\u0435\u0440 \u043D\u0435
+      \u043F\u0435\u0439, \u0431\u0435\u0434\u0430 \u0431\u0443\u0434\u0435\u0442."
+  Pictures:
+  - {fileID: 2100000, guid: 7a8bd03dc9c119f4dbb8f83da2991098, type: 2}
+  - {fileID: 2100000, guid: 0f57b33aacf7d6042a4f66a950f6607f, type: 2}
+  - {fileID: 2100000, guid: b4fc9ff05b489b94e8c98f614804c72b, type: 2}

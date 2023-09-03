@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03fb65f40f3467b4280c90aea3609846, type: 3}
+  m_Name: Level_36
+  m_EditorClassIdentifier: 
+  Id: 5
+  Word: BRAID
+  Turns: 10
+  Character: 2
+  Dialog:
+    _characterText: I have a younger daughter. Lives far away, with a man. I'm worried
+      about her, but I'm afraid to ask. So, honey, tell me, how is she there? I'm
+      very worried.
+    _predictorText: And worry, Mother, it's right. Only not sadness awaits you, but
+      joy. Her braid will be unwound soon.
+  Pictures:
+  - {fileID: 2100000, guid: d90f86e6dd3050247a1225dc925a4460, type: 2}
+  - {fileID: 2100000, guid: ef5067d2a5963194abecde92ad4bc592, type: 2}
+  - {fileID: 2100000, guid: a968efcd8c86de745b9fb4f3ea3f0be0, type: 2}
