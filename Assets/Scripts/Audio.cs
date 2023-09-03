@@ -50,6 +50,8 @@ public class Audio : MonoBehaviour
         {
             _audioSource.clip = _usaTheme;
         }
+        
+        _audioSource.Play();
     }
 
     public void PlaySpinSound() 
