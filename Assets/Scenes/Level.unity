@@ -4938,7 +4938,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 27f6de93a455ec74a802687a4e28a445, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -5036,15 +5036,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccaf786d56c81854cbb71d020ee124e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _russiaTheme: {fileID: 8300000, guid: 27f6de93a455ec74a802687a4e28a445, type: 3}
-  _africaTheme: {fileID: 8300000, guid: ed93c30d75a7b5c4b8a6a05fa573d936, type: 3}
-  _japanTheme: {fileID: 8300000, guid: 233c09e5fcf34864c9032a659ece13fc, type: 3}
-  _transylvaniaTheme: {fileID: 8300000, guid: a3e2d23740b6029448f423e592a4a583, type: 3}
-  _usaTheme: {fileID: 8300000, guid: fed3af26a0b85ed4689c63e9813bcb31, type: 3}
   _throw: {fileID: 8300000, guid: 45aa99a907a2ec347b6e30ae98b0bea1, type: 3}
   _spin: {fileID: 8300000, guid: 2f41222975963874cab61844f8ebaf74, type: 3}
   _win: {fileID: 8300000, guid: 11490495bfbeb154fb4cd22cca09559b, type: 3}
-  _levelGenerator: {fileID: 3220990398650110681}
 --- !u!1 &4167633821351961174
 GameObject:
   m_ObjectHideFlags: 0
